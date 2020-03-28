@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Blood Donation Information</string>
+    <string name="title_pre_donation">During Donation</string>
+    <string name="title_post_donation">After Donation</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="help_text">Tap on a question to reveal it\'s answer.</string>
+    <string name="splash_text">Thank you for saving a life!</string>
+
+    <string-array name="about_questions">
+        <item>What are the minimum requirements to become a blood donor?</item>
+        <item>Will there be pain?</item>
+        <item>Can I get AIDS from donating blood?</item>
+        <item>Do I have enough blood in my body to donate?</item>
+        <item>How much blood is taken?</item>
+        <item>In how much time will my body replace the blood that I donated?</item>
+        <item>How often may I donate?</item>
+        <item>Are the health history questions necessary every time I donate?</item>
+        <item>What is artificial blood?</item>
+        <item>What fees are associated with blood?</item>
+        <item>Is there anything I should do before I donate?</item>
+        <item>What does the term \“donor deferral\” mean?</item>
+        <item>If I have a cold or the flu, can I donate blood?</item>
+        <item>Can I still donate if I have high blood pressure?</item>
+        <item>What if I\'m taking aspirin or medication prescribed by my doctor?</item>
+        <item>What if I have anemia?</item>
+        <item>How long will the actual donation process take?</item>
+        <item>How will I feel after I donate?</item>
+        <item>What can you do if you aren\'t eligible to donate?</item>
+        <item>How can I host a blood drive at my work, school or church?</item>
+        <item>What is apheresis?</item>
+        <item>What are platelets and how are they used?</item>
+        <item>How often can I give platelets?</item>
+        <item>Can I donate blood for myself?</item>
+    </string-array>
+    <string-array name="about_answers">
+        <item>You must be at least 18 years of age, a minimum of 45 kg, and in basic good health.</item>
+        <item>You may feel a slight prick in the beginning lasting only a couple of seconds, but there should be no discomfort during the donation.</item>
+        <item>No. There is no risk of contracting AIDS or any other disease through the donation process. Each collection kit is sterile, pre-packaged and used only once.</item>
+        <item>Yes. The body contains 10 to 12 units of blood. You donate only one unit.</item>
+        <item>For a whole blood donation, 350 ml/450 ml blood is collected.</item>
+        <item>Not long at all. The volume of fluids will adjust within a few hours of your donation. The red blood cells will be replaced within a few weeks.</item>
+        <item>You may donate whole blood once every 3 months, which allows plenty of time for your red cells to be replenished. Platelet (apheresis) donors may donate more frequently - as often as once every seven days and up to 24 times per year. This is because the body replenishes platelets and plasma more quickly than red cells. </item>
+        <item>To ensure the safest possible blood supply, all donors must be asked all the screening questions at each donation. </item>
+        <item>Scientists have yet to find a successful substitute for human blood. This is why blood donors are so vital to the lives of those who are in need of blood.</item>
+        <item>While donated blood is free, there are significant costs associated with collecting, testing, preparing components, labeling, storing and shipping blood; recruiting and educating donors; and quality assurance. </item>
+        <item>Be sure to eat well at your regular mealtimes and drink plenty of fluids. Wear clothing with sleeves that can be raised above the elbow.</item>
+        <item>Individuals disqualified from donating blood are known as "deferred" donors.  It  will depend on the specific reason for disqualification (e.g., a person may be deferred temporarily because of anemia, a condition that is usually reversible). Once the reason for the deferral no longer exists and the temporary deferral period has lapsed, the donor may return to the blood bank and be re-entered into the system.</item>
+        <item>In order to donate, blood centers require that you be in generally good health (symptom-free) and recommend that you are feeling well.</item>
+        <item>Yes, if your blood pressure in under control and within the limits set in the donation guidelines.</item>
+        <item>Aspirin and ibuprofen will not affect a whole blood donation. Apheresis platelet donors, however, must not take aspirin or aspirin products 3 days prior to donation. Many other medications are acceptable. </item>
+        <item>You cannot give blood if you have anemia. However, this can often be a temporary condition. Your hemoglobin will be tested before you donate to make sure it is at an acceptable level.</item>
+        <item>The actual donation takes about 5&#8211;10 minutes. The entire donation process, from registration to post&#8211;donation refreshments, takes about 30&#8211;40 minutes.</item>
+        <item>Most people feel great after giving blood. If you feel any abnormal symptoms, let a staff member at the blood donation center or blood drive know. You should avoid lifting heavy objects or strenuous exercise for the next 24 hours; otherwise you can resume full activity as long as you feel well.</item>
+        <item>While a given individual may be unable to donate, he or she may be able to recruit a suitable donor. Blood banks are always in need of volunteers to assist at blood draws or to organize mobile blood drives.</item>
+        <item>Contact the Public Relations Officer of the blood center to find out the system and requirements.</item>
+        <item>Apheresis is the process by which platelets and other specific blood components (red cells or plasma) are collected from a donor. The word “apheresis” is derived from the Greek word aphaeresis meaning “to take away.” This process is accomplished by using a machine called a cell separator. Blood is drawn from the donor and the platelets, or another blood component, are collected by the cell separator and the remaining components of the blood are returned to the donor during the donation. Each apheresis donation procedure takes about one-and-one-half to two hours. Donors can watch movies or relax during the donation.</item>
+        <item>Platelets are tiny, colorless, disc-shaped particles circulating in the blood, and they are essential for normal blood clotting. Platelets are critically important to the survival of many patients with clotting problems (aplastic anemia, leukemia) or cancer, and patients who will undergo organ transplants or major surgeries like heart bypass grafts. Platelets can only be stored for five days after being collected. Maintaining an adequate supply of this lifesaving, perishable product is an ongoing challenge.</item>
+        <item>Every 7 days up to 24 apheresis donations can be made in a year. </item>
+        <item>An autologous donation is when you donate blood for yourself before having surgery or a planned medical procedure. Autologous donations require a physician prescription. Contact your doctor first to find out if you should donate blood for yourself.</item>
+    </string-array>
+    <string-array name="after_questions">
+        <item>Precautions</item>
+        <item>If you get a bruise</item>
+        <item>If you get dizzy or lightheaded</item>
+        <item>If bleeding recurs</item>
+        <item>Enjoy the feeling of knowing you have helped save lives!</item>
+        <item>Schedule your next appointment.</item>
+    </string-array>
+    <string-array name="after_answers">
+        <item>1) Drink an extra four glasses of non-alcoholic liquids.\n2) Keep your bandage on and dry for the next five hours, and do not do heavy exercising or lifting.\n3) Because you could experience dizziness or loss of strength, use caution if you plan to do anything that could put you or others at risk of harm</item>
+        <item>Apply ice to the area intermittently for 10&#8211;15 minutes during the first 24 hours. Thereafter, apply warm, moist heat to the area intermittently for 10&#8211;15 minutes. A rainbow of colors may occur for about 10 days.</item>
+        <item>If you feel faint (light headed or dizzy, hot, sweating, trembling, shaky or nauseous) stop what you are doing, lie down, and raise your feet until the feeling passes and you feel well enough to safely resume activities and drink plenty of fluid.</item>
+        <item>Sit down, raise your arm and press on the area where the blood is coming from for at least 5 minutes.</item>
+        <item>Enjoy the feeling of knowing you have helped save lives!</item>
+        <item>Schedule your next appointment.</item>
+    </string-array>
+</resources>
